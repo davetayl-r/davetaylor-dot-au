@@ -1,0 +1,7 @@
+---
+title: "Oops, you probably shouldn't have seen that"
+---
+
+Somethings gone wrong, try the search or navigate [back](www.davetaylor.au).
+
+[![](img/ibis_map.webp){title="ALL YOUR BINS BELONG TO US" fig-align="center"}](www.davetaylor.au)

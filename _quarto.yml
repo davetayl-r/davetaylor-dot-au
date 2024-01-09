@@ -1,0 +1,77 @@
+# website settings
+website:
+  title: ""
+  description: "Dave Taylor | Economist, Bikepacker and Khachapuri fan"
+  image: img/my_image.jpg
+  favicon: img/favicon.png
+  google-analytics: 
+    tracking-id: "UA-291440308"
+  cookie-consent: true
+  
+  
+  # start of the navigation bar at the top of the website
+  navbar:
+    pinned: true
+    logo: /img/name_logo.png
+    
+    # your sub-pages
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Occassional Missives"
+        href: posts.qmd
+      - text: "CV"
+        href: https://research.monash.edu/en/persons/david-taylor-3
+    
+    # your social media handles
+    right:
+      - icon: twitter
+        href: https://twitter.com/davetayl_r
+      - icon: github
+        href: https://github.com/davetayl-r
+      - icon: instagram
+        href: https://instagram.com/davetayl_r
+      - icon: linkedin
+        href: https://www.linkedin.com/in/djataylor/
+      - icon: envelope
+        aria-label: email
+        href: "mailto:david.j.a.taylor@gmail.com"  
+  
+
+  search: 
+    location: navbar
+    type: textbox
+  page-footer: 
+    left: |
+      <span class="faux-block">{{< fa brands creative-commons >}} 2023 Dave Taylor</span>
+    center: |
+      <span class="faux-block">[{{< fa brands orcid >}} <strong>ORCID</strong>](https://orcid.org/0000-0001-8801-7488)</span>
+    right: |
+      <span class="faux-block">Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)</span>
+      <span class="faux-block">[View source at {{< fa brands square-github >}}](https://github.com/davetayl-r/davetaylor-dot-au)</span>
+
+project:
+  type: website
+  output-dir: docs
+
+  preview: 
+    port: 22222
+    browser: true
+    watch-inputs: true
+    navigate: true
+
+execute:
+  freeze: true
+
+format:
+  html:
+    fontsize: 1.1em
+    theme: 
+      - pulse
+      - html/styles.scss
+    toc: false
+    code-link: true
+    anchor-sections: true
+    fig-cap-location: margin
+    reference-location: margin
+    footnotes-hover: true

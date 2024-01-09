@@ -1,0 +1,15 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/my_image.jpg"
+---
+
+::: {#about-block}
+:::
+
+# Hi, I'm Dave
+
+I'm an Economist, sometime Bikepacker, occasional photographer and Khachapuri fan. 
+
+I'm a Research Fellow and PhD Candidate in the Department of Social Work at Monash University where I work with a talented and dedicated team creating and synthesising high-quality evidence on the effectiveness and implementation of complex interventions in social welfare.
