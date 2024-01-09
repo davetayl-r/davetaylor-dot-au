@@ -6,7 +6,7 @@ website:
   favicon: img/favicon.png
   google-analytics: 
     tracking-id: "UA-291440308"
-  cookie-consent: true
+    storage: "none"
   
   
   # start of the navigation bar at the top of the website
@@ -18,8 +18,14 @@ website:
     left:
       - text: "Home"
         href: index.qmd
-      - text: "Occassional Missives"
+      - text: "Projects"
+        href: projects.qmd
+      - text: "Posts"
         href: posts.qmd
+      - text: "Photos"
+        href: photos.qmd
+      - text: "Film"
+        href: film.qmd
       - text: "CV"
         href: https://research.monash.edu/en/persons/david-taylor-3
     
@@ -27,6 +33,8 @@ website:
     right:
       - icon: twitter
         href: https://twitter.com/davetayl_r
+      - icon: clouds-fill
+        href: https://bsky.app/profile/davetayl-r.bsky.social
       - icon: github
         href: https://github.com/davetayl-r
       - icon: instagram

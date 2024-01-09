@@ -1,0 +1,10 @@
+---
+title: "Photos"
+listing: 
+  contents: photos 
+  type: grid 
+  sort: "date desc" 
+  categories: true 
+---
+
+I'm going to migrate some of my albums from my old website over to this one. 
