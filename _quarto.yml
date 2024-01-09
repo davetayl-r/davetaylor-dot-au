@@ -24,9 +24,9 @@ website:
         href: posts.qmd
       - text: "Photos"
         href: photos.qmd
-      - text: "Films"
-        menu: 
-          - href: fuchsia-melancholy-road.qmd
+      #- text: "Films"
+      #  menu: 
+      #    - href: fuchsia-melancholy-road.qmd
       - text: "CV"
         href: https://research.monash.edu/en/persons/david-taylor-3
     
