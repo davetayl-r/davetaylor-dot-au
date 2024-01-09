@@ -24,7 +24,7 @@ website:
         href: posts.qmd
       - text: "Photos"
         href: photos.qmd
-      - text: "Film"
+      - text: "Films"
         menu: 
           - href: fuchsia-melancholy-road.qmd
       - text: "CV"
