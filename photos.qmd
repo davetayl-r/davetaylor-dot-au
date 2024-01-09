@@ -4,7 +4,7 @@ listing:
   contents: photos 
   type: grid 
   sort: "date desc" 
-  categories: true 
+  categories: false 
 ---
 
 I'm going to migrate some of my albums from my old website over to this one. 

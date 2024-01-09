@@ -4,7 +4,7 @@ listing:
   contents: posts 
   type: grid 
   sort: "date desc" 
-  categories: true 
+  categories: false 
 ---
 
 I'm not entirely sure what will end up here. You might find some updates to some projects that I'm working on, or even the odd bikepacking route!
