@@ -2,7 +2,7 @@
 title: "Fuchsia — Melancholy Road"
 ---
 
-Back in 2013 some friends and I cooked up this music video for our dear friend 'King Tony' Durant and his band, Fuchsia. Check it out:
+Back in 2013 some friends and I pulled together this music video for our dear friend 'King Tony' Durant and his band, Fuchsia. Check it out:
 
 {{< video https://www.youtube.com/embed/SjwXw5YTOmk?si=id2qECQVMyRWvXp9 >}}
 
