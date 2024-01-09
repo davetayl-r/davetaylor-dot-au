@@ -33,6 +33,7 @@ website:
     right:
       - icon: twitter
         href: https://twitter.com/davetayl_r
+        target: _blank
       - icon: clouds-fill
         href: https://bsky.app/profile/davetayl-r.bsky.social
       - icon: github
