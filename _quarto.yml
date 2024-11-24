@@ -30,22 +30,18 @@ website:
       - text: "CV"
         href: https://research.monash.edu/en/persons/david-taylor-3
     
-    # your social media handles
+    # Your social media handles
     right:
-      - icon: twitter
-        href: https://twitter.com/davetayl_r
-      - icon: clouds-fill
-        href: https://bsky.app/profile/davetayl-r.bsky.social
-      - icon: github
+      - text: "{{< iconify fa6-brands bluesky size=1.1em title='Bluesky' >}}"
+        href: https://bsky.app/profile/davetaylor.au
+      - text: "{{< iconify bi github size=1.1em title='GitHub' >}}"
         href: https://github.com/davetayl-r
-      - icon: instagram
+      - text: "{{< iconify fa6-brands instagram size=1.1em title='Instagram' >}}"
         href: https://instagram.com/davetayl_r
-      - icon: linkedin
+      - text: "{{< iconify bi linkedin size=1.1em title='LinkedIn' >}}"
         href: https://www.linkedin.com/in/djataylor/
-      - icon: envelope
-        aria-label: email
-        href: "mailto:david.j.a.taylor@gmail.com"  
-  
+      - text: "{{< iconify bi envelope size=1.1em title='Email' >}}"
+        href: "mailto:websitecontact@mail.davetaylor.au"
 
   search: 
     location: navbar

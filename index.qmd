@@ -10,6 +10,4 @@ about:
 
 # Hi, I'm Dave
 
-I'm an Economist, sometime Bikepacker, occasional photographer and Khachapuri fan. 
-
-I'm a Research Fellow and PhD Candidate in the Department of Social Work at Monash University where I work with a talented and dedicated team creating and synthesising high-quality evidence on the effectiveness and implementation of complex interventions in social welfare.
+I'm a Research Fellow and PhD Candidate with the [Data Matters](https://www.monash.edu/medicine/spahc/socialwork/datamatters) group at Monash University. I work on a range of projects that aim to help policymakers make evidence-informed decisions. This involves creating and synthesising high-quality evidence on the effectiveness, implementation and economic impact of complex interventions in social welfare and human services. I focus on applying causal inference methods to generate evidence and (increasingly, Bayesian) meta-analytic methods, to synthesise it.
