@@ -80,9 +80,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: [{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: [],
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -144,6 +144,9 @@ window.Quarto = {
 };
 </script>
 
+<meta property="og:title" content="Projects">
+<meta property="og:description" content="Dave Taylor | Economist, Bikepacker and Khachapuri fan">
+<meta property="og:image" content="./projects/care-leaver-review/preview_image_2.webp">
 </head>
 
 <body class="nav-fixed fullcontent">
@@ -250,14 +253,35 @@ window.Quarto = {
 </header>
 
 
-<p>I’ll eventually get around to using this place to put up some information on some projects that I’ve done.</p>
+<p>Here you’ll find information about some of the research projects I’ve worked on. I try to make all my work as open as possible, so you’ll find links to publications, registrations and code repositories where available. If you have any questions about any of these projects, please don’t hesitate to get in touch.</p>
 
 
 
 
 <div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
 <div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="Systematic Review,Meta Analysis,Care Leaver,Leaving Care" data-listing-file-modified-sort="1732433406621" data-listing-reading-time-sort="3" data-listing-word-count-sort="550">
+<a href="./projects/care-leaver-review/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./projects/care-leaver-review/preview_image_2.webp" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+What works for care leavers?
+</h5>
+<div class="card-text listing-description">
+A systematic review and meta-analysis
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
 
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
 </div>
 <div class="listing-no-matching d-none">
 No matching items
@@ -687,7 +711,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p><span class="faux-block"><i class="fa-brands fa-creative-commons" aria-label="creative-commons"></i> 2023 Dave Taylor</span></p>
+<p><span class="faux-block"><i class="fa-brands fa-creative-commons" aria-label="creative-commons"></i> 2023-24 Dave Taylor</span></p>
 </div>   
     <div class="nav-footer-center">
 <p><span class="faux-block"><a href="https://orcid.org/0000-0001-8801-7488"><i class="fa-brands fa-orcid" aria-label="orcid"></i> <strong>ORCID</strong></a></span></p>

@@ -67,7 +67,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "I’ll eventually get around to using this place to put up some information on some projects that I’ve done.\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Here you’ll find information about some of the research projects I’ve worked on. I try to make all my work as open as possible, so you’ll find links to publications, registrations and code repositories where available. If you have any questions about any of these projects, please don’t hesitate to get in touch.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhat works for care leavers?\n\n\nA systematic review and meta-analysis\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "film.html",
@@ -110,5 +110,124 @@
     "title": "Fuchsia — Melancholy Road",
     "section": "Music:",
     "text": "Music:\nWritten and Performed by: Tony Durant and Fuchsia\nVocals and Guitar: Tony Durant\nGuitar: Bill Beare\nBass: Dick Hayes\nViolin: Siobhan Dennison\nLike it? You can buy the album Fuchsia II: From Psychedelia to a Distant Place from Bandcamp. Keep up with the band on Facebook and online."
+  },
+  {
+    "objectID": "projects/2024-care-leaver-review/index.html#peer-reviewed-publication",
+    "href": "projects/2024-care-leaver-review/index.html#peer-reviewed-publication",
+    "title": "What works for care leavers?",
+    "section": "Peer reviewed publication",
+    "text": "Peer reviewed publication\nTaylor, D., Albers, B., Mann, G., Lewis, J., Taylor, R., Mendes, P., Macdonald, G., & Shlonsky, A. (2024). Systematic Review and Meta-Analysis of Policies and Interventions that Improve Health, Psychosocial, and Economic Outcomes for Young People Leaving the Out-of-Home Care System. Trauma, Violence, & Abuse, 25(5), 3534-3554. https://doi.org/10.1177/15248380241253041\n\nSupplementary material: https://doi.org/10.5281/zenodo.8128712\nGithub repository\n\nTaylor, D., Shlonsky, A., Albers, B., Chakraborty, S., Lewis, J., Mendes, P., Macdonald, G., Williams, K. (2021). Protocol for a systematic review of policies, programs or interventions designed to improve health and wellbeing of young people leaving the out-of-home care system. Systematic Reviews, 10, Article 240. https://doi.org/10.1186/s13643-021-01792-5"
+  },
+  {
+    "objectID": "projects/2024-care-leaver-review/index.html#technical-report",
+    "href": "projects/2024-care-leaver-review/index.html#technical-report",
+    "title": "What works for young people leaving the out-of-home care system?",
+    "section": "Technical report",
+    "text": "Technical report\nTaylor, D., Albers, B., Mann, G., Chakraborty, S., Lewis, J., Mendes, P., Macdonald, G., Williams, K. & Shlonsky, A. (2021). Systematic review and meta-analysis of policies, programmes, and interventions that improve outcomes for young people leaving the out-of-home care system. What Works for Children’s Social Care, London. https://doi.org/10.13140/RG.2.2.24525.56809\nOtt, E., Willis, E., Taylor, D. (2023). Reviews on mental health services for care leavers. What Works for Children’s Social Care, London. https://doi.org/10.13140/RG.2.2.19958.00329"
+  },
+  {
+    "objectID": "projects/2024-care-leaver-review/index.html#peer-reviewed-protocol",
+    "href": "projects/2024-care-leaver-review/index.html#peer-reviewed-protocol",
+    "title": "What works for young people leaving the out-of-home care system?",
+    "section": "Peer reviewed protocol",
+    "text": "Peer reviewed protocol\nTaylor, D., Shlonsky, A., Albers, B., Chakraborty, S., Lewis, J., Mendes, P., Macdonald, G., Williams, K. (2021). Protocol for a systematic review of policies, programs or interventions designed to improve health and wellbeing of young people leaving the out-of-home care system. Systematic Reviews, 10, Article 240. https://doi.org/10.1186/s13643-021-01792-5"
+  },
+  {
+    "objectID": "projects/2024-care-leaver-review/index.html#preregistration",
+    "href": "projects/2024-care-leaver-review/index.html#preregistration",
+    "title": "What works for care leavers?",
+    "section": "Preregistration",
+    "text": "Preregistration\nTaylor, D., Shlonksy, A., Lewis, J., Chakraborty, S., Mendes, P., Macdonald, G., Williams. K. (2020) The effectiveness of policies, programs or interventions to improve health and psychosocial outcomes for young people leaving the out of home care system: a systematic review [Preregistration]. PROSPERO. CRD42020146999 https://www.crd.york.ac.uk/prospero/display_record.php?ID=CRD42020146999"
+  },
+  {
+    "objectID": "projects/2024-care-leaver-review/index.html",
+    "href": "projects/2024-care-leaver-review/index.html",
+    "title": "What works for care leavers?",
+    "section": "",
+    "text": "This systematic review emerged from my work at the Centre for Evidence and Implementation, where I was working on an impact evaluation of a program to support young people leaving out-of-home care. This sparked my interest in understanding the broader evidence base on policies and programs to support care leavers, and both projects ultimately became central to my PhD research.\nThe project evolved over several years. We initially conducted our search in 2020, producing a technical report for What Works for Children’s Social Care. When we updated the search in 2022, it served two purposes: ensuring our published review reflected the most recent evidence, and forming the basis for a separate review examining mental health services for care leavers.\nWe limited our inclusion criteria to studies with valid counterfactuals, including both randomized controlled trials and observational studies with comparison groups formed through matching or other statistical approaches that could plausibly control for selection into treatment. This yielded 16 studies, all but one of which was from the United States.\nWe found 16 studies examining a range of transition support programs and extended care policies. Twenty small meta-analyses were undertaken encompassing ILPs and C&PSP, with two showing results that favored the intervention with certainty. The level of confidence in each meta-analysis was considered very low. A significant risk of bias was identified in each of the included studies. While some interventions showed promise, particularly extended care, the scope and strength of included evidence is insufficient to recommend any included approach.\nAll materials from this project are openly available, including our protocol, pre-registration, technical reports, and supplementary materials. The GitHub repository contains all analysis code and data.\n\n\n\nThis project was funded by the What Works for Children’s Social Care.\n\n\n\nThis review was a collaboration between researchers from the Centre for Evidence and Implementation (who employed me at the time), Monash University and Bristol University and practitioners from The Fostering Network."
+  },
+  {
+    "objectID": "projects/2024-care-leaver-review/index.html#funding",
+    "href": "projects/2024-care-leaver-review/index.html#funding",
+    "title": "What works for care leavers?",
+    "section": "",
+    "text": "This project was funded by the What Works for Children’s Social Care."
+  },
+  {
+    "objectID": "projects/2024-care-leaver-review/index.html#team",
+    "href": "projects/2024-care-leaver-review/index.html#team",
+    "title": "What works for care leavers?",
+    "section": "",
+    "text": "This review was a collaboration between researchers from the Centre for Evidence and Implementation (who employed me at the time), Monash University and Bristol University and practitioners from The Fostering Network."
+  },
+  {
+    "objectID": "projects/2024-care-leaver-review/index.html#about",
+    "href": "projects/2024-care-leaver-review/index.html#about",
+    "title": "What works for care leavers?",
+    "section": "",
+    "text": "This systematic review emerged from my work at the Centre for Evidence and Implementation, where I was working on an impact evaluation of a program to support young people leaving out-of-home care. This sparked my interest in understanding the broader evidence base on policies and programs to support care leavers, and both projects ultimately became central to my PhD research.\nThe project evolved over several years. We initially conducted our search in 2020, producing a technical report for What Works for Children’s Social Care. When we updated the search in 2022, it served two purposes: ensuring our published review reflected the most recent evidence, and forming the basis for a separate review examining mental health services for care leavers.\nWe limited our inclusion criteria to studies with valid counterfactuals, including both randomized controlled trials and observational studies with comparison groups formed through matching or other statistical approaches that could plausibly control for selection into treatment. This yielded 16 studies, all but one of which was from the United States.\nWe found 16 studies examining a range of transition support programs and extended care policies. Twenty small meta-analyses were undertaken encompassing ILPs and C&PSP, with two showing results that favored the intervention with certainty. The level of confidence in each meta-analysis was considered very low. A significant risk of bias was identified in each of the included studies. While some interventions showed promise, particularly extended care, the scope and strength of included evidence is insufficient to recommend any included approach.\nAll materials from this project are openly available, including our protocol, pre-registration, technical reports, and supplementary materials. The GitHub repository contains all analysis code and data."
+  },
+  {
+    "objectID": "projects/2024-care-leaver-review/index.html#technical-reports",
+    "href": "projects/2024-care-leaver-review/index.html#technical-reports",
+    "title": "What works for care leavers?",
+    "section": "Technical reports",
+    "text": "Technical reports\nTaylor, D., Albers, B., Mann, G., Chakraborty, S., Lewis, J., Mendes, P., Macdonald, G., Williams, K. & Shlonsky, A. (2021). Systematic review and meta-analysis of policies, programmes, and interventions that improve outcomes for young people leaving the out-of-home care system. What Works for Children’s Social Care, London. https://doi.org/10.13140/RG.2.2.24525.56809\nOtt, E., Willis, E., Taylor, D. (2023). Reviews on mental health services for care leavers. What Works for Children’s Social Care, London. https://doi.org/10.13140/RG.2.2.19958.00329"
+  },
+  {
+    "objectID": "projects/care-leaver-review/index.html",
+    "href": "projects/care-leaver-review/index.html",
+    "title": "What works for care leavers?",
+    "section": "",
+    "text": "This systematic review emerged from my work at the Centre for Evidence and Implementation, where I was working on an impact evaluation of a program to support young people leaving out-of-home care. This sparked my interest in understanding the broader evidence base on policies and programs to support care leavers, and both projects ultimately became central to my PhD research.\nThe project evolved over several years. We initially conducted our search in 2020, producing a technical report for What Works for Children’s Social Care. When we updated the search in 2022, it served two purposes: ensuring our published review reflected the most recent evidence, and forming the basis for a separate review examining mental health services for care leavers.\nWe limited our inclusion criteria to studies with valid counterfactuals, including both randomized controlled trials and observational studies with comparison groups formed through matching or other statistical approaches that could plausibly control for selection into treatment. This yielded 16 studies, all but one of which was from the United States.\nWe found 16 studies examining a range of transition support programs and extended care policies. Twenty small meta-analyses were undertaken encompassing ILPs and C&PSP, with two showing results that favored the intervention with certainty. The level of confidence in each meta-analysis was considered very low. A significant risk of bias was identified in each of the included studies. While some interventions showed promise, particularly extended care, the scope and strength of included evidence is insufficient to recommend any included approach.\nAll materials from this project are openly available, including our protocol, pre-registration, technical reports, and supplementary materials. The GitHub repository contains all analysis code and data.\n\n\n\nThis project was funded by the What Works for Children’s Social Care.\n\n\n\nThis review was a collaboration between researchers from the Centre for Evidence and Implementation (who employed me at the time), Monash University and Bristol University and practitioners from The Fostering Network."
+  },
+  {
+    "objectID": "projects/care-leaver-review/index.html#about",
+    "href": "projects/care-leaver-review/index.html#about",
+    "title": "What works for care leavers?",
+    "section": "",
+    "text": "This systematic review emerged from my work at the Centre for Evidence and Implementation, where I was working on an impact evaluation of a program to support young people leaving out-of-home care. This sparked my interest in understanding the broader evidence base on policies and programs to support care leavers, and both projects ultimately became central to my PhD research.\nThe project evolved over several years. We initially conducted our search in 2020, producing a technical report for What Works for Children’s Social Care. When we updated the search in 2022, it served two purposes: ensuring our published review reflected the most recent evidence, and forming the basis for a separate review examining mental health services for care leavers.\nWe limited our inclusion criteria to studies with valid counterfactuals, including both randomized controlled trials and observational studies with comparison groups formed through matching or other statistical approaches that could plausibly control for selection into treatment. This yielded 16 studies, all but one of which was from the United States.\nWe found 16 studies examining a range of transition support programs and extended care policies. Twenty small meta-analyses were undertaken encompassing ILPs and C&PSP, with two showing results that favored the intervention with certainty. The level of confidence in each meta-analysis was considered very low. A significant risk of bias was identified in each of the included studies. While some interventions showed promise, particularly extended care, the scope and strength of included evidence is insufficient to recommend any included approach.\nAll materials from this project are openly available, including our protocol, pre-registration, technical reports, and supplementary materials. The GitHub repository contains all analysis code and data."
+  },
+  {
+    "objectID": "projects/care-leaver-review/index.html#funding",
+    "href": "projects/care-leaver-review/index.html#funding",
+    "title": "What works for care leavers?",
+    "section": "",
+    "text": "This project was funded by the What Works for Children’s Social Care."
+  },
+  {
+    "objectID": "projects/care-leaver-review/index.html#team",
+    "href": "projects/care-leaver-review/index.html#team",
+    "title": "What works for care leavers?",
+    "section": "",
+    "text": "This review was a collaboration between researchers from the Centre for Evidence and Implementation (who employed me at the time), Monash University and Bristol University and practitioners from The Fostering Network."
+  },
+  {
+    "objectID": "projects/care-leaver-review/index.html#peer-reviewed-publication",
+    "href": "projects/care-leaver-review/index.html#peer-reviewed-publication",
+    "title": "What works for care leavers?",
+    "section": "Peer reviewed publication",
+    "text": "Peer reviewed publication\nTaylor, D., Albers, B., Mann, G., Lewis, J., Taylor, R., Mendes, P., Macdonald, G., & Shlonsky, A. (2024). Systematic Review and Meta-Analysis of Policies and Interventions that Improve Health, Psychosocial, and Economic Outcomes for Young People Leaving the Out-of-Home Care System. Trauma, Violence, & Abuse, 25(5), 3534-3554. https://doi.org/10.1177/15248380241253041\n\nSupplementary material: https://doi.org/10.5281/zenodo.8128712\nGithub repository\n\nTaylor, D., Shlonsky, A., Albers, B., Chakraborty, S., Lewis, J., Mendes, P., Macdonald, G., Williams, K. (2021). Protocol for a systematic review of policies, programs or interventions designed to improve health and wellbeing of young people leaving the out-of-home care system. Systematic Reviews, 10, Article 240. https://doi.org/10.1186/s13643-021-01792-5"
+  },
+  {
+    "objectID": "projects/care-leaver-review/index.html#technical-reports",
+    "href": "projects/care-leaver-review/index.html#technical-reports",
+    "title": "What works for care leavers?",
+    "section": "Technical reports",
+    "text": "Technical reports\nTaylor, D., Albers, B., Mann, G., Chakraborty, S., Lewis, J., Mendes, P., Macdonald, G., Williams, K. & Shlonsky, A. (2021). Systematic review and meta-analysis of policies, programmes, and interventions that improve outcomes for young people leaving the out-of-home care system. What Works for Children’s Social Care, London. https://doi.org/10.13140/RG.2.2.24525.56809\nOtt, E., Willis, E., Taylor, D. (2023). Reviews on mental health services for care leavers. What Works for Children’s Social Care, London. https://doi.org/10.13140/RG.2.2.19958.00329"
+  },
+  {
+    "objectID": "projects/care-leaver-review/index.html#preregistration",
+    "href": "projects/care-leaver-review/index.html#preregistration",
+    "title": "What works for care leavers?",
+    "section": "Preregistration",
+    "text": "Preregistration\nTaylor, D., Shlonksy, A., Lewis, J., Chakraborty, S., Mendes, P., Macdonald, G., Williams. K. (2020) The effectiveness of policies, programs or interventions to improve health and psychosocial outcomes for young people leaving the out of home care system: a systematic review [Preregistration]. PROSPERO. CRD42020146999 https://www.crd.york.ac.uk/prospero/display_record.php?ID=CRD42020146999"
+  },
+  {
+    "objectID": "projects/care-leaver-review/index.html#peer-reviewed-publications",
+    "href": "projects/care-leaver-review/index.html#peer-reviewed-publications",
+    "title": "What works for care leavers?",
+    "section": "Peer reviewed publications",
+    "text": "Peer reviewed publications\nTaylor, D., Albers, B., Mann, G., Lewis, J., Taylor, R., Mendes, P., Macdonald, G., & Shlonsky, A. (2024). Systematic Review and Meta-Analysis of Policies and Interventions that Improve Health, Psychosocial, and Economic Outcomes for Young People Leaving the Out-of-Home Care System. Trauma, Violence, & Abuse, 25(5), 3534-3554. https://doi.org/10.1177/15248380241253041\n\nSupplementary material: https://doi.org/10.5281/zenodo.8128712\nGithub repository\n\nTaylor, D., Shlonsky, A., Albers, B., Chakraborty, S., Lewis, J., Mendes, P., Macdonald, G., Williams, K. (2021). Protocol for a systematic review of policies, programs or interventions designed to improve health and wellbeing of young people leaving the out-of-home care system. Systematic Reviews, 10, Article 240. https://doi.org/10.1186/s13643-021-01792-5"
   }
 ]

@@ -4,10 +4,10 @@ website:
   description: "Dave Taylor | Economist, Bikepacker and Khachapuri fan"
   image: img/my_image.jpg
   favicon: img/favicon.png
+  open-graph: true
   google-analytics: 
     tracking-id: "UA-291440308"
     storage: "none"
-  
   
   # start of the navigation bar at the top of the website
   navbar:
@@ -48,7 +48,7 @@ website:
     type: textbox
   page-footer: 
     left: |
-      <span class="faux-block">{{< fa brands creative-commons >}} 2023 Dave Taylor</span>
+      <span class="faux-block">{{< fa brands creative-commons >}} 2023-24 Dave Taylor</span>
     center: |
       <span class="faux-block">[{{< fa brands orcid >}} <strong>ORCID</strong>](https://orcid.org/0000-0001-8801-7488)</span>
     right: |
