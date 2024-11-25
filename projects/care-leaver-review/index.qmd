@@ -9,13 +9,13 @@ image: /projects/care-leaver-review/preview_image_2.webp
 
 ## About
 
-This systematic review emerged from my work at the Centre for Evidence and Implementation, where I was working on an impact evaluation of a program to support young people leaving out-of-home care. This sparked my interest in understanding the broader evidence base on policies and programs to support care leavers, and both projects ultimately became central to my PhD research.
+This systematic review stemmed from my work at the Centre for Evidence and Implementation, where I managed an impact evaluation of a novel program providing additional support to young people transitioning from out-of-home care. This experience sparked a broader investigation into the evidence base for policies and programs for care leavers, ultimately shaping my PhD research.
 
-The project evolved over several years. We initially conducted our search in 2020, producing a technical report for What Works for Children's Social Care. When we updated the search in 2022, it served two purposes: ensuring our published review reflected the most recent evidence, and forming the basis for a separate review examining mental health services for care leavers.
+The project unfolded over several years, beginning with an initial search in 2020 that informed a technical report for What Works for Children's Social Care. We updated the search in 2022 to incorporate recent evidence into the review for publication and to support a related review on mental health services for care leavers.
 
-We limited our inclusion criteria to studies with valid counterfactuals, including both randomized controlled trials and observational studies with comparison groups formed through matching or other statistical approaches that could plausibly control for selection into treatment. This yielded 16 studies, all but one of which was from the United States.
+Our review focused on studies with valid counterfactuals, including both randomized controlled trials and observational studies that used methods plausibly controlling for selection into treatment. This yielded 16 studies examining a range of transition support programs and extended care policies, all but one conducted in the United States.
 
-We found 16 studies examining a range of transition support programs and extended care policies. Twenty small meta-analyses were undertaken encompassing ILPs and C&PSP, with two showing results that favored the intervention with certainty. The level of confidence in each meta-analysis was considered very low. A significant risk of bias was identified in each of the included studies. While some interventions showed promise, particularly extended care, the scope and strength of included evidence is insufficient to recommend any included approach.
+Our analysis pooled results into 20 small meta-analyses for independent living programs and coaching and support programs. However, we have very low confidence in the certainty of these results. Overall, while some interventions, particularly extended care, showed promise, the existing evidence is insufficient to recommend any included approach.
 
 All materials from this project are openly available, including our protocol, pre-registration, technical reports, and supplementary materials. The GitHub repository contains all analysis code and data.
 
