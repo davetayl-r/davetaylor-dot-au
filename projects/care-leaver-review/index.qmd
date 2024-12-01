@@ -2,7 +2,7 @@
 title: "What works for care leavers?"
 description: A systematic review and meta-analysis
 categories: [Systematic Review, Meta Analysis, Care Leaver, Leaving Care]
-image: /projects/care-leaver-review/preview_image_2.webp
+image: /projects/care-leaver-review/preview_image.webp
 ---
 
 # Project summary
@@ -13,7 +13,7 @@ This systematic review stemmed from my work at the Centre for Evidence and Imple
 
 The project unfolded over several years, beginning with an initial search in 2020 that informed a technical report for What Works for Children's Social Care. We updated the search in 2022 to incorporate recent evidence into the review for publication and to support a related review on mental health services for care leavers.
 
-Our review focused on studies with valid counterfactuals, including both randomized controlled trials and observational studies that used methods plausibly controlling for selection into treatment. This yielded 16 studies examining a range of transition support programs and extended care policies, all but one conducted in the United States.
+Our review focused on studies with valid counterfactuals, including both randomised controlled trials and observational studies that used methods plausibly controlling for selection into treatment. This yielded 16 studies examining a range of transition support programs and extended care policies, all but one conducted in the United States.
 
 Our analysis pooled results into 20 small meta-analyses for independent living programs and coaching and support programs. However, we have very low confidence in the certainty of these results. Overall, while some interventions, particularly extended care, showed promise, the existing evidence is insufficient to recommend any included approach.
 

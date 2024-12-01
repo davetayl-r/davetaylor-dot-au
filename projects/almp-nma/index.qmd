@@ -1,0 +1,68 @@
+---
+title: "Disentangling the impact of active labour market programs"
+description: A component network meta-analysis
+categories: [Network Meta Analysis, Youth Employment, Active Labour Market Programs]
+image: /projects/almp-nma/preview_image.webp
+---
+
+# Project summary
+
+## About
+
+This ongoing project supports the development of [Youth Futures Foundation's (YFF) *Youth Employment Toolkit*](https://youthfuturesfoundation.org/toolkit/) by analysing the impact of individual components of active labour market programs (ALMPs) on young people’s employment outcomes in high-income countries. The Toolkit seeks to provide evidence-informed guidance on policy and practice to improve youth employment outcomes — read more about it [here](https://youthfuturesfoundation.org/about-the-youth-employment-toolkit/).
+
+A major challenge in understanding what works in youth employment programs is the complexity of ALMPs, which often include multiple active components. For example, a program targeting young people not in education, employment, or training might combine job search assistance, basic skills training, employment coaching, and off-the-job technical training. Traditional meta-analytic methods typically evaluate these interventions as single, discrete entities, limiting the ability to assess the impact of individual components.
+
+To address this, we employed component network meta-analysis (NMA). This approach allows us to disentangle the effects of individual program components and their combinations, providing Toolkit users with actionable insights into the comparative effectiveness of different approaches — insights that go beyond what can be achieved through standard meta-analyses or regression frameworks.
+
+I began this project when I was at the Centre for Evidence and Implementation and have continued to work on it since moving to Monash University. The project is has been undertaken in stages: 
+
+* **Stage 1 (2021-2023)** — informed the first iteration of YFF's Youth Employment Toolkit. It involved undertaking two rapid evidence assessments, including: 
+  * A component network meta-analysis (NMA) of 'employment and skills programs' — this also formed part of my PhD research.
+  * A meta-analysis of wage subsidies on employment and education outcomes for participants. 
+* **Stage 2 (2024-current)** — is informing an expanded version of the Toolkit. It involves:
+  * Broadening the scope of the NMA to analyse all active components of ALMPs.
+  * Expanding the search strategy to include recently published evidence.
+  * Exploring additional outcomes relevant to youth employment.
+
+We are interested in expanding the scope and accessibility of our analysis in future stages.
+
+## Funding
+
+This project is funded by the [Youth Futures Foundation](https://youthfuturesfoundation.org/).
+
+## Team
+
+This project is a collaboration between researchers from [Monash University](https://www.monash.edu/medicine/spahc/socialwork/datamatters), the [Centre for Evidence and Implementation](https://www.ceiglobal.org/), the [Institute for Employment Studies](https://www.employment-studies.co.uk/) and the [HEDCO Institute for Evidence-based Educational Practice at the Univeristy of Oregon](https://hedcoinstitute.uoregon.edu/).
+
+# Research output
+
+This project is in progress, some output from this project is open access and available online.
+
+## Technical reports
+
+### Stage 1
+
+Taylor, D., Featherston, R., Ott, E., Rowland, J., Newton, B., & Shlonsky, A. (2023). A network meta-analysis of employment and skills programmes and interventions designed to assist young people to enter the labour market in high income countries: Technical Report. *Youth Futures Foundation*, London. <https://doi.org/10.13140/RG.2.2.32461.82406> 
+
+## Conference Presentations
+
+### Stage 1
+
+Taylor, D., Featherston, R., & Ott, E. (2023, October). Using network meta-analysis to inform an evidence toolkit of employment interventions for disadvantaged youth [Conference presentation]. Evidence and Implementation Summit, Melbourne, Australia.
+
+## Preregistration
+
+### Stage 2
+
+Taylor, D., Featherston, R., Tanner-Smith, E., Newton, B., Nancarrow, A., Ott, E. Rowland, J., Pemovska, T. & Shlonsky, A. (2024). Active labour market programs for young people in high-income countries: a component network meta analysis [Registration]. OSF. <https://doi.org/10.17605/OSF.IO/DBFKR>
+
+### Stage 1
+
+Ott, E., Taylor, D. Rowland, J., Nancarrow, A., Newton, B., Featherston, R., & Shlonsky, A. (2022). A network meta-analysis of employment and skills programmes and interventions designed to assist young people to enter the labour market in high income countries [Registration]. OSF. <https://doi.org/10.17605/OSF.IO/J63QT>
+
+## Blogs
+
+### Stage 1
+
+Taylor, D., & Ott, E. (2023, April 19). *Understanding what works to improve employment outcomes for young people using a network meta-analysis.* Youth Futures Foundation. Retrieved June 2, 2024, from <https://youthfuturesfoundation.org/news/understanding-what-works-to-improve-employment-outcomes-for-young-people-using-a-network-meta-analysis/>
