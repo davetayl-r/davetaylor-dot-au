@@ -1,5 +1,5 @@
 ---
-title: "Occassional missives"
+title: "Posts"
 listing: 
   contents: posts 
   type: grid 
@@ -7,4 +7,4 @@ listing:
   categories: false 
 ---
 
-I'm not entirely sure what will end up here. You might find some updates to some projects that I'm working on, or even the odd bikepacking route!
+I'm not entirely sure kind of occasional missives will end up here. You might find some updates to some projects that I'm working on, or even the odd bikepacking route!
