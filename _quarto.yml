@@ -3,7 +3,7 @@ website:
   title: ""
   description: "Dave Taylor | Applied economist, Bikepacker and Khachapuri fan"
   image: img/my_image.jpg
-  favicon: img/favicon.png
+  favicon: img/favicon.gif
   open-graph: true
   google-analytics: 
     tracking-id: "G-KV4E3C6HT8"

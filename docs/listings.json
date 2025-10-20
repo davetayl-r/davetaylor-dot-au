@@ -1,9 +1,5 @@
 [
   {
-    "listing": "/posts.html",
-    "items": []
-  },
-  {
     "listing": "/photos.html",
     "items": []
   },
@@ -14,5 +10,9 @@
       "/projects/almp-nma/index.html",
       "/projects/care-leaver-review/index.html"
     ]
+  },
+  {
+    "listing": "/posts.html",
+    "items": []
   }
 ]
