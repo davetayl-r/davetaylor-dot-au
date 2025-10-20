@@ -8,9 +8,6 @@ website:
   google-analytics: 
     tracking-id: "G-KV4E3C6HT8"
     anonymize-ip: true
-  cookie-consent:
-    type: express 
-    style: simple 
   
   # start of the navigation bar at the top of the website
   navbar:
@@ -37,6 +34,8 @@ website:
     right:
       - text: "{{< iconify fa6-brands bluesky size=1.1em title='Bluesky' >}}"
         href: https://bsky.app/profile/davetaylor.au
+      - text: "{{< iconify fa6-brands x-twitter size=1.1em title='X' >}}"
+        href: https://x.com/davetayl_r
       - text: "{{< iconify bi github size=1.1em title='GitHub' >}}"
         href: https://github.com/davetayl-r
       - text: "{{< iconify fa6-brands instagram size=1.1em title='Instagram' >}}"
