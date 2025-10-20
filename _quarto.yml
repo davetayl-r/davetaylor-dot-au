@@ -5,9 +5,10 @@ website:
   image: img/my_image.jpg
   favicon: img/favicon.png
   open-graph: true
-  google-analytics: "G-KV4E3C6HT8"
-  storage: "none"
-  anonymize-ip: true
+  google-analytics: 
+    tracking-id: "G-KV4E3C6HT8"
+    storage: "none"
+    anonymize-ip: true
   
   # start of the navigation bar at the top of the website
   navbar:
