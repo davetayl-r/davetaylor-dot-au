@@ -48,7 +48,7 @@ website:
     type: textbox
   page-footer: 
     left: |
-      <span class="faux-block">{{< fa brands creative-commons >}} 2023-24 Dave Taylor</span>
+      <span class="faux-block">{{< fa brands creative-commons >}} 2023-25 Dave Taylor</span>
     center: |
       <span class="faux-block">[{{< fa brands orcid >}} <strong>ORCID</strong>](https://orcid.org/0000-0001-8801-7488)</span>
     right: |

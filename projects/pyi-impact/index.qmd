@@ -1,0 +1,45 @@
+---
+title: "Assessing the impact of an accomodation and support intervention for care leavers"
+description: A hybrid implementation-effectiveness study
+categories: [Care Leaver, Leaving Care, Impact Evaluation, Causal Inference, Implementation Science, Propensity Score Methods]
+image: /projects/pyi-impact/preview_image.webp
+---
+
+# Project summary
+
+## About
+
+This project was a commissioned evaluation of a pilot accommodation and support service for care leavers in New South Wales. The Premier’s Youth Initiative (PYI) was designed to reduce homelessness among young people transitioning from out-of-home care by combining personalised advice, education and employment mentoring, transitional accommodation, and long-term housing support.
+
+We conducted a hybrid type-1 implementation–effectiveness study using linked administrative data from child welfare and homelessness services. Propensity-score methods were used to estimate the average treatment effect on the treated on ten measures of homelessness between ages 18 and 19. To understand implementation, we held focus groups with young people, service providers, and the funder to explore how the program was received and to identify barriers and facilitators to delivery.
+
+This was a multi-year project, with findings released at different stages. The initial evaluation ran from 2017 to 2020 and was published as a technical report. I later extended the analysis using updated data and a revised analytic framework as part of my PhD, with results published in a peer reviewed article. For this updated analysis, I developed a directed acyclic graph (DAG) through a structured Delphi process involving researchers, practitioners, and policy stakeholders to map the data-generating process and guide the identification strategy.
+
+Overall, PYI did not produce measurable effects on any of the homelessness outcomes—estimated impacts were consistently close to zero. Subgroup analyses suggested that Aboriginal participants experienced poorer outcomes than their non-Aboriginal peers, while young people who had experienced homelessness during care may have benefited more from PYI, though findings were inconsistent. Implementation findings showed high acceptability among participants but pointed to substantial barriers, particularly around planning and support for leaving care.
+
+All published materials from this project are available, including the journal article, technical reports, and supplementary materials. The GitHub repository contains the full analysis code. 
+
+## Funding
+
+This project was commissioned and funded by the [NSW Department of Communities and Justice](https://dcj.nsw.gov.au/).
+
+## Team
+
+This evaluation was a collaboration between researchers from the [Centre for Evidence and Implementation](https://www.ceiglobal.org/) (who employed me at the time), [Monash University](https://www.monash.edu/medicine/spahc/socialwork/datamatters) and the [Behavioural Insights Team](https://www.bi.team/).
+
+# Research output
+
+All of the output from this project is open access and available online.
+
+## Peer reviewed publications
+
+Taylor, D., Roberts, J., Rose, V., Gyani, A., & Shlonsky, A. (2025). Examining the impact of an accommodation and support intervention in reducing homelessness amongst care leavers in Australia: A hybrid type-1 implementation-effectiveness study using propensity score methods. Children and Youth Services Review, 179, 108597. https://doi.org/10.1016/j.childyouth.2025.108597
+
+-   [Supplementary material](https://davetayl-r.github.io/pyi-impact-study/pyi-impact-study-supplementary-material.html): https://doi.org/10.5281/zenodo.15302510
+
+-   [Github repository](https://github.com/davetayl-r/pyi-impact-study)
+
+## Technical reports
+
+Taylor, D., Roberts, J., Rose, V., Gyani, A., Harrigan, S., & Shlonsky, A. (2020). Evaluation of the Premier’s Youth Initiative: Final Report. *NSW Department of Communities and Justice*, Sydney. https://www.doi.org/10.13140/RG.2.2.18377.66404
+

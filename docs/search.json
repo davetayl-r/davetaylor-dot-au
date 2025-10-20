@@ -32,7 +32,7 @@
     "href": "index.html",
     "title": "Dave Taylor",
     "section": "",
-    "text": "Hi, I’m Dave\nI’m a Research Fellow and PhD Candidate with the Data Matters group at Monash University. I work on a range of projects that aim to help policymakers make evidence-informed decisions. This involves creating and synthesising high-quality evidence on the effectiveness, implementation and economic impact of complex interventions in social welfare and human services. I focus on applying causal inference methods to generate evidence and (increasingly, Bayesian) meta-analytic methods, to synthesise it."
+    "text": "Hi, I’m Dave\nI’m a Research Fellow with the Data Matters group at Monash University.\nMy applied research seeks to help policymakers make better, evidence-informed decisions in social welfare and human services. Applying causal inference and meta-analytic methods, I’m interested in generating and synthesising evidence on the effectiveness, implementation, and economic impact of complex interventions that aim to improve human capital outcomes for vulnerable children and families."
   },
   {
     "objectID": "example.html",
@@ -67,7 +67,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Here you’ll find information about some of the research projects I’ve worked on. I try to make all my work as open as possible, so you’ll find links to publications, registrations and code repositories where available. If you have any questions about any of these projects, please don’t hesitate to get in touch.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDisentangling the impact of active labour market programs\n\n\nA component network meta-analysis\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhat works for care leavers?\n\n\nA systematic review and meta-analysis\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Here you’ll find information about some of the research projects I’ve worked on. I try to make all my work as open as possible, so you’ll find links to publications, registrations and code repositories where available. If you have any questions about any of these projects, please don’t hesitate to get in touch.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAssessing the impact of an accomodation and support intervention for care leavers\n\n\nA hybrid implementation-effectiveness study\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDisentangling the impact of active labour market programs\n\n\nA component network meta-analysis\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhat works for care leavers\n\n\nA systematic review and meta-analysis\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "film.html",
@@ -177,28 +177,28 @@
   {
     "objectID": "projects/care-leaver-review/index.html",
     "href": "projects/care-leaver-review/index.html",
-    "title": "What works for care leavers?",
+    "title": "What works for care leavers",
     "section": "",
     "text": "This systematic review stemmed from my work at the Centre for Evidence and Implementation, where I managed an impact evaluation of a novel program providing additional support to young people transitioning from out-of-home care. This experience sparked a broader investigation into the evidence base for policies and programs for care leavers, ultimately shaping my PhD research.\nThe project unfolded over several years, beginning with an initial search in 2020 that informed a technical report for What Works for Children’s Social Care. We updated the search in 2022 to incorporate recent evidence into the review for publication and to support a related review on mental health services for care leavers.\nOur review focused on studies with valid counterfactuals, including both randomised controlled trials and observational studies that used methods plausibly controlling for selection into treatment. This yielded 16 studies examining a range of transition support programs and extended care policies, all but one conducted in the United States.\nOur analysis pooled results into 20 small meta-analyses for independent living programs and coaching and support programs. However, we have very low confidence in the certainty of these results. Overall, while some interventions, particularly extended care, showed promise, the existing evidence is insufficient to recommend any included approach.\nAll materials from this project are openly available, including our protocol, pre-registration, technical reports, and supplementary materials. The GitHub repository contains all analysis code and data.\n\n\n\nThis project was funded by the What Works for Children’s Social Care.\n\n\n\nThis review was a collaboration between researchers from the Centre for Evidence and Implementation (who employed me at the time), Monash University and Bristol University and practitioners from The Fostering Network."
   },
   {
     "objectID": "projects/care-leaver-review/index.html#about",
     "href": "projects/care-leaver-review/index.html#about",
-    "title": "What works for care leavers?",
+    "title": "What works for care leavers",
     "section": "",
     "text": "This systematic review stemmed from my work at the Centre for Evidence and Implementation, where I managed an impact evaluation of a novel program providing additional support to young people transitioning from out-of-home care. This experience sparked a broader investigation into the evidence base for policies and programs for care leavers, ultimately shaping my PhD research.\nThe project unfolded over several years, beginning with an initial search in 2020 that informed a technical report for What Works for Children’s Social Care. We updated the search in 2022 to incorporate recent evidence into the review for publication and to support a related review on mental health services for care leavers.\nOur review focused on studies with valid counterfactuals, including both randomised controlled trials and observational studies that used methods plausibly controlling for selection into treatment. This yielded 16 studies examining a range of transition support programs and extended care policies, all but one conducted in the United States.\nOur analysis pooled results into 20 small meta-analyses for independent living programs and coaching and support programs. However, we have very low confidence in the certainty of these results. Overall, while some interventions, particularly extended care, showed promise, the existing evidence is insufficient to recommend any included approach.\nAll materials from this project are openly available, including our protocol, pre-registration, technical reports, and supplementary materials. The GitHub repository contains all analysis code and data."
   },
   {
     "objectID": "projects/care-leaver-review/index.html#funding",
     "href": "projects/care-leaver-review/index.html#funding",
-    "title": "What works for care leavers?",
+    "title": "What works for care leavers",
     "section": "",
     "text": "This project was funded by the What Works for Children’s Social Care."
   },
   {
     "objectID": "projects/care-leaver-review/index.html#team",
     "href": "projects/care-leaver-review/index.html#team",
-    "title": "What works for care leavers?",
+    "title": "What works for care leavers",
     "section": "",
     "text": "This review was a collaboration between researchers from the Centre for Evidence and Implementation (who employed me at the time), Monash University and Bristol University and practitioners from The Fostering Network."
   },
@@ -212,21 +212,21 @@
   {
     "objectID": "projects/care-leaver-review/index.html#technical-reports",
     "href": "projects/care-leaver-review/index.html#technical-reports",
-    "title": "What works for care leavers?",
+    "title": "What works for care leavers",
     "section": "Technical reports",
     "text": "Technical reports\nTaylor, D., Albers, B., Mann, G., Chakraborty, S., Lewis, J., Mendes, P., Macdonald, G., Williams, K. & Shlonsky, A. (2021). Systematic review and meta-analysis of policies, programmes, and interventions that improve outcomes for young people leaving the out-of-home care system. What Works for Children’s Social Care, London. https://doi.org/10.13140/RG.2.2.24525.56809\nOtt, E., Willis, E., Taylor, D. (2023). Reviews on mental health services for care leavers. What Works for Children’s Social Care, London. https://doi.org/10.13140/RG.2.2.19958.00329"
   },
   {
     "objectID": "projects/care-leaver-review/index.html#preregistration",
     "href": "projects/care-leaver-review/index.html#preregistration",
-    "title": "What works for care leavers?",
+    "title": "What works for care leavers",
     "section": "Preregistration",
     "text": "Preregistration\nTaylor, D., Shlonksy, A., Lewis, J., Chakraborty, S., Mendes, P., Macdonald, G., Williams. K. (2020) The effectiveness of policies, programs or interventions to improve health and psychosocial outcomes for young people leaving the out of home care system: a systematic review [Preregistration]. PROSPERO. CRD42020146999 https://www.crd.york.ac.uk/prospero/display_record.php?ID=CRD42020146999"
   },
   {
     "objectID": "projects/care-leaver-review/index.html#peer-reviewed-publications",
     "href": "projects/care-leaver-review/index.html#peer-reviewed-publications",
-    "title": "What works for care leavers?",
+    "title": "What works for care leavers",
     "section": "Peer reviewed publications",
     "text": "Peer reviewed publications\nTaylor, D., Albers, B., Mann, G., Lewis, J., Taylor, R., Mendes, P., Macdonald, G., & Shlonsky, A. (2024). Systematic Review and Meta-Analysis of Policies and Interventions that Improve Health, Psychosocial, and Economic Outcomes for Young People Leaving the Out-of-Home Care System. Trauma, Violence, & Abuse, 25(5), 3534-3554. https://doi.org/10.1177/15248380241253041\n\nSupplementary material: https://doi.org/10.5281/zenodo.8128712\nGithub repository\n\nTaylor, D., Shlonsky, A., Albers, B., Chakraborty, S., Lewis, J., Mendes, P., Macdonald, G., Williams, K. (2021). Protocol for a systematic review of policies, programs or interventions designed to improve health and wellbeing of young people leaving the out-of-home care system. Systematic Reviews, 10, Article 240. https://doi.org/10.1186/s13643-021-01792-5"
   },
@@ -292,5 +292,47 @@
     "title": "Disentangling the impact of active labour market programs",
     "section": "Blogs",
     "text": "Blogs\n\nStage 1\nTaylor, D., & Ott, E. (2023, April 19). Understanding what works to improve employment outcomes for young people using a network meta-analysis. Youth Futures Foundation. Retrieved June 2, 2024, from https://youthfuturesfoundation.org/news/understanding-what-works-to-improve-employment-outcomes-for-young-people-using-a-network-meta-analysis/"
+  },
+  {
+    "objectID": "projects/pyi-impact/index.html",
+    "href": "projects/pyi-impact/index.html",
+    "title": "Assessing the impact of an accomodation and support intervention for care leavers",
+    "section": "",
+    "text": "This project was a commissioned evaluation of a pilot accommodation and support service for care leavers in New South Wales. The Premier’s Youth Initiative (PYI) was designed to reduce homelessness among young people transitioning from out-of-home care by combining personalised advice, education and employment mentoring, transitional accommodation, and long-term housing support.\nWe conducted a hybrid type-1 implementation–effectiveness study using linked administrative data from child welfare and homelessness services. Propensity-score methods were used to estimate the average treatment effect on the treated on ten measures of homelessness between ages 18 and 19. To understand implementation, we held focus groups with young people, service providers, and the funder to explore how the program was received and to identify barriers and facilitators to delivery.\nThis was a multi-year project, with findings released at different stages. The initial evaluation ran from 2017 to 2020 and was published as a technical report. I later extended the analysis using updated data and a revised analytic framework as part of my PhD, with results published in a peer reviewed article. For this updated analysis, I developed a directed acyclic graph (DAG) through a structured Delphi process involving researchers, practitioners, and policy stakeholders to map the data-generating process and guide the identification strategy.\nOverall, PYI did not produce measurable effects on any of the homelessness outcomes—estimated impacts were consistently close to zero. Subgroup analyses suggested that Aboriginal participants experienced poorer outcomes than their non-Aboriginal peers, while young people who had experienced homelessness during care may have benefited more from PYI, though findings were inconsistent. Implementation findings showed high acceptability among participants but pointed to substantial barriers, particularly around planning and support for leaving care.\nAll published materials from this project are available, including the journal article, technical reports, and supplementary materials. The GitHub repository contains the full analysis code.\n\n\n\nThis project was commissioned and funded by the NSW Department of Communities and Justice.\n\n\n\nThis evaluation was a collaboration between researchers from the Centre for Evidence and Implementation (who employed me at the time), Monash University and the Behavioural Insights Team."
+  },
+  {
+    "objectID": "projects/pyi-impact/index.html#about",
+    "href": "projects/pyi-impact/index.html#about",
+    "title": "Assessing the impact of an accomodation and support intervention for care leavers",
+    "section": "",
+    "text": "This project was a commissioned evaluation of a pilot accommodation and support service for care leavers in New South Wales. The Premier’s Youth Initiative (PYI) was designed to reduce homelessness among young people transitioning from out-of-home care by combining personalised advice, education and employment mentoring, transitional accommodation, and long-term housing support.\nWe conducted a hybrid type-1 implementation–effectiveness study using linked administrative data from child welfare and homelessness services. Propensity-score methods were used to estimate the average treatment effect on the treated on ten measures of homelessness between ages 18 and 19. To understand implementation, we held focus groups with young people, service providers, and the funder to explore how the program was received and to identify barriers and facilitators to delivery.\nThis was a multi-year project, with findings released at different stages. The initial evaluation ran from 2017 to 2020 and was published as a technical report. I later extended the analysis using updated data and a revised analytic framework as part of my PhD, with results published in a peer reviewed article. For this updated analysis, I developed a directed acyclic graph (DAG) through a structured Delphi process involving researchers, practitioners, and policy stakeholders to map the data-generating process and guide the identification strategy.\nOverall, PYI did not produce measurable effects on any of the homelessness outcomes—estimated impacts were consistently close to zero. Subgroup analyses suggested that Aboriginal participants experienced poorer outcomes than their non-Aboriginal peers, while young people who had experienced homelessness during care may have benefited more from PYI, though findings were inconsistent. Implementation findings showed high acceptability among participants but pointed to substantial barriers, particularly around planning and support for leaving care.\nAll published materials from this project are available, including the journal article, technical reports, and supplementary materials. The GitHub repository contains the full analysis code."
+  },
+  {
+    "objectID": "projects/pyi-impact/index.html#funding",
+    "href": "projects/pyi-impact/index.html#funding",
+    "title": "Assessing the impact of an accomodation and support intervention for care leavers",
+    "section": "",
+    "text": "This project was commissioned and funded by the NSW Department of Communities and Justice."
+  },
+  {
+    "objectID": "projects/pyi-impact/index.html#team",
+    "href": "projects/pyi-impact/index.html#team",
+    "title": "Assessing the impact of an accomodation and support intervention for care leavers",
+    "section": "",
+    "text": "This evaluation was a collaboration between researchers from the Centre for Evidence and Implementation (who employed me at the time), Monash University and the Behavioural Insights Team."
+  },
+  {
+    "objectID": "projects/pyi-impact/index.html#peer-reviewed-publications",
+    "href": "projects/pyi-impact/index.html#peer-reviewed-publications",
+    "title": "Assessing the impact of an accomodation and support intervention for care leavers",
+    "section": "Peer reviewed publications",
+    "text": "Peer reviewed publications\nTaylor, D., Roberts, J., Rose, V., Gyani, A., & Shlonsky, A. (2025). Examining the impact of an accommodation and support intervention in reducing homelessness amongst care leavers in Australia: A hybrid type-1 implementation-effectiveness study using propensity score methods. Children and Youth Services Review, 179, 108597. https://doi.org/10.1016/j.childyouth.2025.108597\n\nSupplementary material: https://doi.org/10.5281/zenodo.15302510\nGithub repository"
+  },
+  {
+    "objectID": "projects/pyi-impact/index.html#technical-reports",
+    "href": "projects/pyi-impact/index.html#technical-reports",
+    "title": "Assessing the impact of an accomodation and support intervention for care leavers",
+    "section": "Technical reports",
+    "text": "Technical reports\nTaylor, D., Roberts, J., Rose, V., Gyani, A., Harrigan, S., & Shlonsky, A. (2020). Evaluation of the Premier’s Youth Initiative: Final Report. NSW Department of Communities and Justice, Sydney. https://www.doi.org/10.13140/RG.2.2.18377.66404"
   }
 ]

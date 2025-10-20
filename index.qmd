@@ -11,4 +11,6 @@ about:
 
 # Hi, I'm Dave
 
-I'm a Research Fellow and PhD Candidate with the [Data Matters](https://www.monash.edu/medicine/spahc/socialwork/datamatters) group at Monash University. I work on a range of projects that aim to help policymakers make evidence-informed decisions. This involves creating and synthesising high-quality evidence on the effectiveness, implementation and economic impact of complex interventions in social welfare and human services. I focus on applying causal inference methods to generate evidence and (increasingly, Bayesian) meta-analytic methods, to synthesise it.
+I'm a Research Fellow with the [Data Matters](https://www.monash.edu/medicine/spahc/socialwork/datamatters) group at Monash University. 
+
+My applied research seeks to help policymakers make better, evidence-informed decisions in social welfare and human services. Applying causal inference and meta-analytic methods, I'm interested in generating and synthesising evidence on the effectiveness, implementation, and economic impact of complex interventions that aim to improve human capital outcomes for vulnerable children and families.
