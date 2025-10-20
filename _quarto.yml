@@ -7,8 +7,10 @@ website:
   open-graph: true
   google-analytics: 
     tracking-id: "G-KV4E3C6HT8"
-    storage: "none"
     anonymize-ip: true
+  cookie-consent:
+    type: express 
+    style: simple 
   
   # start of the navigation bar at the top of the website
   navbar:

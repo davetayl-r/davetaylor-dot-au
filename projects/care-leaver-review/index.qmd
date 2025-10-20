@@ -33,7 +33,7 @@ All of the output from this project is open access and available online.
 
 ## Peer reviewed publications
 
-Taylor, D., Albers, B., Mann, G., Lewis, J., Taylor, R., Mendes, P., Macdonald, G., & Shlonsky, A. (2024). Systematic Review and Meta-Analysis of Policies and Interventions that Improve Health, Psychosocial, and Economic Outcomes for Young People Leaving the Out-of-Home Care System. *Trauma, Violence, & Abuse*, 25(5), 3534-3554. https://doi.org/10.1177/15248380241253041
+Taylor, D., Albers, B., Mann, G., Lewis, J., Taylor, R., Mendes, P., Macdonald, G., & Shlonsky, A. (2024). Systematic Review and Meta-Analysis of Policies and Interventions that Improve Health, Psychosocial, and Economic Outcomes for Young People Leaving the Out-of-Home Care System. *Trauma, Violence, & Abuse*, 25(5), 3534-3554. <https://doi.org/10.1177/15248380241253041>
 
 -   [Supplementary material](https://davetayl-r.github.io/care-leaver-review/care-leaver-review-supplementary-material.html): https://doi.org/10.5281/zenodo.8128712
 

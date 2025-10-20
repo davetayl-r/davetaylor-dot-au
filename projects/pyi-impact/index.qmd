@@ -33,7 +33,7 @@ All of the output from this project is open access and available online.
 
 ## Peer reviewed publications
 
-Taylor, D., Roberts, J., Rose, V., Gyani, A., & Shlonsky, A. (2025). Examining the impact of an accommodation and support intervention in reducing homelessness amongst care leavers in Australia: A hybrid type-1 implementation-effectiveness study using propensity score methods. Children and Youth Services Review, 179, 108597. https://doi.org/10.1016/j.childyouth.2025.108597
+Taylor, D., Roberts, J., Rose, V., Gyani, A., & Shlonsky, A. (2025). Examining the impact of an accommodation and support intervention in reducing homelessness amongst care leavers in Australia: A hybrid type-1 implementation-effectiveness study using propensity score methods. Children and Youth Services Review, 179, 108597. <https://doi.org/10.1016/j.childyouth.2025.108597>
 
 -   [Supplementary material](https://davetayl-r.github.io/pyi-impact-study/pyi-impact-study-supplementary-material.html): https://doi.org/10.5281/zenodo.15302510
 
@@ -41,5 +41,4 @@ Taylor, D., Roberts, J., Rose, V., Gyani, A., & Shlonsky, A. (2025). Examining t
 
 ## Technical reports
 
-Taylor, D., Roberts, J., Rose, V., Gyani, A., Harrigan, S., & Shlonsky, A. (2020). Evaluation of the Premier’s Youth Initiative: Final Report. *NSW Department of Communities and Justice*, Sydney. https://www.doi.org/10.13140/RG.2.2.18377.66404
-
+Taylor, D., Roberts, J., Rose, V., Gyani, A., Harrigan, S., & Shlonsky, A. (2020). Evaluation of the Premier’s Youth Initiative: Final Report. *NSW Department of Communities and Justice*, Sydney. <https://www.doi.org/10.13140/RG.2.2.18377.66404>
