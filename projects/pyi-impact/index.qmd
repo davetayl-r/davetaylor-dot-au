@@ -2,7 +2,7 @@
 title: "Assessing the impact of an accomodation and support intervention for care leavers"
 description: A hybrid implementation-effectiveness study
 categories: [Care Leaver, Leaving Care, Impact Evaluation, Causal Inference, Implementation Science, Propensity Score Methods]
-image: /projects/pyi-impact/preview_image.webp
+image: /projects/pyi-impact/preview_image.png
 ---
 
 # Project summary
