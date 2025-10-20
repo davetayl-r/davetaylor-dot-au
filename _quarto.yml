@@ -6,8 +6,9 @@ website:
   favicon: img/favicon.png
   open-graph: true
   google-analytics: 
-    tracking-id: "UA-291440308"
+    google-analytics: "G-KV4E3C6HT8"
     storage: "none"
+    anonymize-ip: true
   
   # start of the navigation bar at the top of the website
   navbar:
